@@ -1,0 +1,19 @@
+{
+  "name": "playwright-vs-extension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.2",
+    "@types/node": "^20.11.20"
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.8.5"
+  }
+}
